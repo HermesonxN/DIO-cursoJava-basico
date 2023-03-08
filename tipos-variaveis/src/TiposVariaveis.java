@@ -5,9 +5,9 @@ public class TiposVariaveis {
 
         //Forma certa
         double salarioMinimo = 2500;
+        short numeroCurto = 1;
 
         //Convertendo short em int
-        short numeroCurto = 1;
         int numeroNormal = numeroCurto;
 
         //Convertendo int em short
