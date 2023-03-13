@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Incrementos",
+            "request": "launch",
+            "mainClass": "Incrementos",
+            "projectName": "OPERADORES_5605f83f"
+        },
+        {
+            "type": "java",
+            "name": "OperadorTernario",
+            "request": "launch",
+            "mainClass": "OperadorTernario",
+            "projectName": "OPERADORES_5605f83f"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "OPERADORES_5605f83f"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresLogicos",
+            "request": "launch",
+            "mainClass": "OperadoresLogicos",
+            "projectName": "OPERADORES_5605f83f"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresRelacionais",
+            "request": "launch",
+            "mainClass": "OperadoresRelacionais",
+            "projectName": "OPERADORES_5605f83f"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresUnarios",
+            "request": "launch",
+            "mainClass": "OperadoresUnarios",
+            "projectName": "OPERADORES_5605f83f"
+        }
+    ]
+}
